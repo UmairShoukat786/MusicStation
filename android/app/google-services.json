@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "896257462438",
+    "project_id": "musicfactory-57534",
+    "storage_bucket": "musicfactory-57534.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:896257462438:android:da8471624784f68d8fe467",
+        "android_client_info": {
+          "package_name": "com.musicstation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "896257462438-8mc4ifq9omfu5d3ca9o0kdgu5vhs34l9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.musicstation",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "896257462438-lukcn6qjcie80m9dm9c67188qb2dnn47.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAH5IZPeoGyDN646CvAR2IlaiI7SKBmrn8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "896257462438-lukcn6qjcie80m9dm9c67188qb2dnn47.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
